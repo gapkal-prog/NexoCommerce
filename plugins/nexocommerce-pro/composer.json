@@ -6,7 +6,10 @@
   "autoload": {
     "psr-4": {
       "NexoCommercePro\\": "app/"
-    }
+    },
+    "files": [
+      "app/Support/Functions.php"
+    ]
   },
   "require": {
     "php": "^8.0"
