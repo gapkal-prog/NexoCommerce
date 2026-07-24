@@ -1,0 +1,14 @@
+{
+  "name": "gapkal-prog/nexocommerce-pro",
+  "description": "NexoCommerce Pro plugin.",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "NexoCommercePro\\": "app/"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  }
+}

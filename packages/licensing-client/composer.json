@@ -1,0 +1,14 @@
+{
+  "name": "gapkal-prog/nexocommerce-licensing-client",
+  "description": "Licensing client package for NexoCommerce.",
+  "type": "library",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "NexoCommerce\\Licensing\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  }
+}

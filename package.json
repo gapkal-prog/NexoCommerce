@@ -1,0 +1,9 @@
+{
+  "name": "nexocommerce-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Monorepo for NexoCommerce Core and Pro plugins.",
+  "scripts": {
+    "test": "echo \"No JS tooling configured yet\""
+  }
+}

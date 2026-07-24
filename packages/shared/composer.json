@@ -1,0 +1,14 @@
+{
+  "name": "gapkal-prog/nexocommerce-shared",
+  "description": "Shared package for NexoCommerce ecosystem.",
+  "type": "library",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "NexoCommerce\\Shared\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  }
+}
